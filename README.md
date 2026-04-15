@@ -1,25 +1,27 @@
-# RFM Segmentation Analysis
+# 🎯 RFM Segmentation Analysis - Projet CRM
 
-## Description
-Analyse RFM (Récence, Fréquence, Montant) pour la segmentation client et l'optimisation CRM.
+[![Version](https://img.shields.io/badge/version-1.0-blue.svg)](https://github.com/votre-repo)
+[![SQL Server](https://img.shields.io/badge/SQL%20Server-2012+-red.svg)](https://www.microsoft.com/sql-server)
+[![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 
-## Installation
-1. Exécuter `rfm_analysis.sql` sur SQL Server 2012+
-2. Vérifier l'existence de la table `FactOnlineSales`
+## 📋 Description du projet
 
-## Utilisation
-Le script génère automatiquement :
-- Segmentation client en 7 catégories
-- Projections financières
-- Recommandations marketing
-- Priorisation des actions
+Ce projet implémente une **analyse RFM complète** (Récence, Fréquence, Montant) pour la segmentation clients et l'optimisation de la stratégie CRM. Il permet de transformer des données de ventes brutes en décisions marketing actionnables.
 
-## Résultats attendus
-- Table temporaire `#segments` avec tous les clients segmentés
-- 9 analyses prêtes à l'emploi
+### 🎯 Objectifs business
+- Identifier les clients à forte valeur ajoutée
+- Détecter les clients à risque de départ
+- Optimiser l'allocation du budget marketing
+- Maximiser le Lifetime Value (LTV) client
 
-## Auteur
-[Billazy] - [2026-04-16]
+## 🚀 Fonctionnalités principales
 
-## Version
-1.0
+| Fonctionnalité | Description |
+|----------------|-------------|
+| 📊 Segmentation RFM | 7 segments clients automatisés |
+| 💰 Projection financière | Estimation du CA potentiel par segment |
+| ⚠️ Détection de risque | Identification des clients à risque |
+| 🎯 Recommandations | Actions marketing par segment |
+| 📈 Matrice décisionnelle | Visualisation Récence vs Fréquence |
+
+## 📁 Structure du projet
