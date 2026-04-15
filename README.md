@@ -26,7 +26,8 @@ Ce projet implémente une **analyse RFM complète** (Récence, Fréquence, Monta
 
 ## 📁 Structure du projet
 
-📁 rfm-segmentation/
+📁 Analyse_RFM_et_Segmentations_Clients
+/
 ├── 📄 README.md                    # Présentation du projet
 ├── 📄 rfm_analysis.sql             # Script principal (ci-dessus)
 ├── 📄 CHANGELOG.md                 # Suivi des versions
