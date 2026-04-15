@@ -26,12 +26,12 @@ Ce projet implémente une **analyse RFM complète** (Récence, Fréquence, Monta
 
 ## 📁 Structure du projet
 
-rfm-segmentation/
-├── 📄 README.md # Ce fichier
-├── 📄 rfm_analysis.sql # Script principal
-├── 📄 CHANGELOG.md # Historique des versions
-├── 📄 requirements.md # Prérequis techniques
+📁 rfm-segmentation/
+├── 📄 README.md                    # Présentation du projet
+├── 📄 rfm_analysis.sql             # Script principal (ci-dessus)
+├── 📄 CHANGELOG.md                 # Suivi des versions
+├── 📄 requirements.md              # Prérequis techniques
 └── 📁 docs/
-├── 📄 business_questions.md # Questions business
-├── 📄 segment_dictionary.md # Dictionnaire des segments
-└── 📄 performance_tips.md # Optimisations SQL
+    ├── 📄 business_questions.md    # Questions business détaillées
+    ├── 📄 segment_dictionary.md    # Dictionnaire des segments
+    └── 📄 performance_tips.md      # Optimisations SQL
